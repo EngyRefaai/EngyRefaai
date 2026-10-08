@@ -16,6 +16,6 @@
 
 <p align="center">
   AI Engineer passionate about building intelligent, data-driven solutions.<br/>
-  I enjoy working across data analysis, machine learning, and AI to turn ideas into practical products.<br/>
+  I enjoy working across data analysis, machine learning, and AI to turn ideas into practical products<br/>
 </p>
 
