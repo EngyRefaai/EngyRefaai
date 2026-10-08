@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./header.svg" alt="Hi, Engy Refaai - AI Engineer" width="100%" />
+  <img src="/header.svg" alt="Hi, Engy Refaai - AI Engineer" width="100%" />
 </p>
 
 <p align="center">
